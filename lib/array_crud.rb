@@ -6,7 +6,7 @@ def create_an_array
   ["water", "tea", "coffee", "soda"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array("create_an_array", "milk")
   create_an_array << "milk"
 end
 
